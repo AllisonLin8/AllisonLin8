@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **AllisonLin8/AllisonLin8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning ...
-> I am studying at AlphaCamp from August 2022, and learning web development for job hunting. Any new work will be posted here, I appreciate you taking the time to read this introduction. Have a nice day ! !
+- 📫 I’m currently exploring job opportunities ...
+> Based on my interests and career aspirations, I began self-studying web development in March 2022. I officially enrolled in AlphaCamp in August 2022 and graduated in late June 2023 ([CERTIFICATE OF COMPLETION](https://lighthouse.alphacamp.co/certificates/57df8514-a4de-4874-b0c0-5f3900ee282e)). I am now a junior engineer. Any side projects I develop will be posted here. Thank you for taking the time to read this introduction. Have a wonderful day !!
